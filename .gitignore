@@ -1,0 +1,13 @@
+*.obj
+*.exe
+*.res
+*.pdb
+*.ilk
+*.exp
+*.lib
+build/
+bin/
+dist/
+.vs/
+cache/
+tools/*.exe
